@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true
+  },
+  "include": [
+    // src밑의 모든 파일들
+    "src/**/*"
+  ]
+}
